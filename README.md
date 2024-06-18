@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/u_get_nyash" target="blank"><img src="https://img.shields.io/twitter/follow/u_get_nyash?logo=twitter&style=for-the-badge" alt="u_get_nyash" /></a> </p>
 
-- 🔭 I’m currently working on **Vexa Web App**
+- 🔭 I’m currently working on **H2Ug Web App**
 
 - 🌱 I’m currently learning **DevOps**
 
@@ -20,7 +20,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rishavchanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" /></a>
 
 <a href="https://instagram.com/Songh_bin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Songh_bin" height="30" width="40" /></a>
 
